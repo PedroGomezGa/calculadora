@@ -82,14 +82,27 @@ input{
     color: white !important;
 }
 
+.reset_button:hover{
+    background-color: #526087 !important;
+}
+
 .result_button{
     grid-column: 3/5;
     background-color:#d13f30 !important;
     color: white !important;
 }
+
+.result_button:hover{
+    background-color: #C02E1F !important;
+}
+
 .del_button{
     background-color: #637198 !important; 
     color: white !important;
+}
+
+.del_button:hover{
+    background-color: #526087 !important;
 }
 
 input::-webkit-outer-spin-button,
